@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 10%;
+}
+h2{
+    margin-left: 27%;
+    
+}
+#display1,#display2{
+    border-radius: 40px;
+    height: 50px;
+    width: 250px;
+    margin-left: 10%;
+    border-color: orange;
+}
+#slot1,#slot2,#slot3{
+    border-radius: 40px;
+    height: 50px;
+    width: 80px;
+    margin-left: 13%;
+    border-color: orange;
+}
+#submit{
+    border-radius: 40px;
+    height: 50px;
+    width: 80px;
+    margin-left: 34%;
+    margin-top: 3%;
+    border-color: orange;
+}
+#display3{
+    margin-left: 11%;
+    margin-top: 1%;
+}
+marquee{
+    margin-top: 4%;
+    margin-bottom: 4%;
+    width: 680px;
+    margin-right: 10px;
+    margin-left:  80px;
+}
